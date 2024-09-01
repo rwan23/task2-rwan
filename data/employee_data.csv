@@ -1,0 +1,21 @@
+employee_id,first_name,surname,email,date_of_birth,department,position,start_date,end_date
+345678,Bob,Johnson,bob.johnson@example.com,1988-07-30,Engineering,DevOps Engineer,2022-07-09,2022-12-09
+456789,Alice,Williams,alice.williams@example.com,1992-11-12,Human Resources,HR Specialist,2022-07-09,2022-12-09
+567890,Tom,Brown,tom.brown@example.com,1986-06-05,Finance,Accountant,2022-07-09,2022-12-09
+678901,Susan,Jones,susan.jones@example.com,1991-09-25,Marketing,Content Strategist,2022-07-09,2022-12-09
+789012,Michael,Miller,michael.miller@example.com,1987-12-08,Sales,Sales Manager,2022-07-09,2022-12-09
+890123,Emily,Davis,emily.davis@example.com,1994-02-17,Engineering,Frontend Developer,2022-07-09,2023-12-09
+901234,David,Wilson,david.wilson@example.com,1983-05-14,Engineering,Backend Developer,2022-07-09,2022-12-09
+112233,Linda,Moore,linda.moore@example.com,1989-08-21,Legal,Legal Advisor,2022-07-09,2023-12-09
+223344,Chris,Taylor,chris.taylor@example.com,1995-10-03,Engineering,Data Scientist,2022-07-09,2023-12-09
+334455,Patricia,Anderson,patricia.anderson@example.com,1984-04-18,Customer Service,Support Specialist,2022-07-09,2022-12-09
+445566,Daniel,Thomas,daniel.thomas@example.com,1982-01-30,Sales,Account Executive,2022-07-09,2023-12-09
+556677,Jessica,Jackson,jessica.jackson@example.com,1993-12-22,Product,Product Manager,2022-07-09,2022-12-09
+667788,Andrew,White,andrew.white@example.com,1986-07-11,Engineering,Cloud Engineer,2022-07-09,2023-12-09
+778899,Karen,Harris,karen.harris@example.com,1991-03-07,Marketing,SEO Specialist,2022-07-09,2023-12-09
+889900,Matthew,Martin,matthew.martin@example.com,1987-11-30,Engineering,Mobile Developer,2022-07-09,2022-12-09
+990011,Amy,Thompson,amy.thompson@example.com,1990-05-23,Design,UX/UI Designer,2022-07-09,2023-12-09
+101112,Kevin,Garcia,kevin.garcia@example.com,1985-06-19,Operations,Operations Manager,2022-07-09,2023-12-09
+202223,Laura,Martinez,laura.martinez@example.com,1992-10-15,Finance,Financial Analyst,2022-07-09,2023-12-09
+990012,"{'first_name': 'string', 'surname': 'string', 'email': 'string', 'date_of_birth': datetime.date(2024, 9, 1), 'department': 'string', 'position': 'string', 'start_date': datetime.date(2024, 9, 1), 'end_date': datetime.date(2024, 9, 1)}",,,,,,,
+990013,"{'first_name': 'rwan', 'surname': 'smadi', 'email': 'rwan@smadi', 'date_of_birth': datetime.date(2005, 6, 14), 'department': 'string', 'position': 'string', 'start_date': datetime.date(2022, 9, 1), 'end_date': datetime.date(2023, 9, 1)}",,,,,,,
